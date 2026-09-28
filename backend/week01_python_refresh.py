@@ -74,3 +74,4 @@ def search_courses(keyword):
 
 print(search_courses("web"))
 
+print("abc")
